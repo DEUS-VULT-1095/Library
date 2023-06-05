@@ -1,4 +1,4 @@
-# LibraryProjectJPA
+# Library
 
 Library CRUD Web App with Spring JPA.
 
